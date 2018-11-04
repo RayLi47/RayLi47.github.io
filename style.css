@@ -43,7 +43,7 @@ div.menubar{
     background-image: linear-gradient( rgba(210, 210, 210, 0.692), rgba(255, 255, 255, 0.596));
 }
 div.option{
-    margin: 1%;
+    margin: 1.2%;
     width: 22%;
     border: 2px solid rgba(70, 7, 7, 0.5);
     display: block;
