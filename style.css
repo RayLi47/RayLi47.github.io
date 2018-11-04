@@ -60,6 +60,10 @@ h3.caption{
     font-weight: bold
 }
 
+div.content {
+  padding: 16px;
+}
+
 div.description{
     margin: 15%;
 }
@@ -73,9 +77,6 @@ p.text{
 
 
 /* Page content */
-div.content {
-  padding: 16px;
-}
 
 /* The sticky class is added to the header with JS when it reaches its scroll position */
 div.sticky {
