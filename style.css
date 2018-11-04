@@ -83,8 +83,12 @@ p.large{
     font-size: 24px;
 }
     
-
-/* Page content */
+#pic{
+  width: 500px;
+  height: 250px;
+  margin: auto;
+  display: block;
+}
 
 /* The sticky class is added to the header with JS when it reaches its scroll position */
 div.sticky {
