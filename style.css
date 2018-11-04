@@ -54,7 +54,7 @@ a.a_url{
   text-decoration: none;
 }
 
-a.ops:hover, a.a_url:hover{
+a.ops:hover{
   text-decoration: underline;
 }
 
