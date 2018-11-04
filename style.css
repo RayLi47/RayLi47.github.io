@@ -46,16 +46,15 @@ div.option{
 
 a.ops{
   color: aliceblue;
-  text-decoration: none;
+  
 }
 
 a.a_url{
   color: rgb(8, 10, 124, 0.73);
-  text-decoration: none;
 }
 
 a:hover{
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a.ops:visited, a.a_url:visited{
