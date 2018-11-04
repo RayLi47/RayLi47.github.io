@@ -27,15 +27,20 @@ p {
 
 }
 
-div.menubar{
-    color: rgb(255, 255, 255);
+div.border{
     width: 80%;
     margin: auto;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 5px;
-
+    
+}
+div.menubar{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    margin: auto;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-image: linear-gradient( rgba(210, 210, 210, 0.692), rgba(255, 255, 255, 0.596));
 }
 div.option{
     margin: 1%;
@@ -87,21 +92,21 @@ p.text{
 p.large{
     font-size: 24px;
 }
-    
+
 #pic{
-  width: 500px;
-  height: 250px;
-  margin: auto;
-  display: block;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    display: block;
 }
 
 footer {
-  padding: 25px 0;
-  text-align: center;
-  background-color: #222222;
+    padding: 25px 0;
+    text-align: center;
+    background-color: #222222;
 }
 
 #footertext{
-  font-family: arial;
-  color: aliceblue;
+    font-family: arial;
+    color: aliceblue;
 }
