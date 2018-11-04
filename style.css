@@ -44,6 +44,10 @@ div.option{
     font-family: arial;
 
 }
+a.filedownload{
+    font-size: 21px;
+    color: rgb(8, 10, 124, 0.73);
+}
 
 a.ops{
     color: aliceblue;
