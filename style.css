@@ -54,9 +54,8 @@ a.a_url{
   text-decoration: none;
 }
 
-a.ops:hover{
+a:hover{
   text-decoration: underline;
-  background color: yellow; //test
 }
 
 a.ops:visited, a.a_url:visited{
@@ -68,5 +67,5 @@ a.ops:link, a.a_url:link {
 }
 
 a.ops:active, a.a_url:active {
-    text-decoration: underline;
+    text-decoration: none;
 }
