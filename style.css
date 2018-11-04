@@ -66,5 +66,5 @@ a.ops:link, a.a_url:link {
 }
 
 a.ops:active, a.a_url:active {
-    text-decoration: none;
+    text-decoration: underline;
 }
