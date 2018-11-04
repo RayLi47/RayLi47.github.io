@@ -10,10 +10,10 @@ h2 {
     font-size: 35px;
 }
 h3 {
-    font-size: 25px;
+    font-size: 32px;
 }
 p {
-    font-size: 16px;
+    font-size: 25px;
 }
 
 #header{
@@ -55,8 +55,8 @@ a.a_url{
 }
 
 h3.caption{
-    text-align: center;
     text-family: arial;
+    font-weight: bold
 }
 
 div.description{
