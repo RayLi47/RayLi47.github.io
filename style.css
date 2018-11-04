@@ -55,7 +55,7 @@ a.a_url{
 }
 
 a:hover{
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a.ops:visited, a.a_url:visited{
