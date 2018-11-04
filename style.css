@@ -29,7 +29,7 @@ p {
 div.menubar{
     color: rgb(255, 255, 255);
     width: 88%;
-    float: top;
+    margin: auto;
 }
 div.option{
     margin: 1%;
