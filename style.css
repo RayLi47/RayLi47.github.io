@@ -10,10 +10,10 @@ h2 {
     font-size: 28px;
 }
 h3 {
-    font-size: 26px;
+    font-size: 28px;
 }
 p {
-    font-size: 22px;
+    font-size: 21px;
 }
 
 #header{
@@ -56,12 +56,13 @@ a.a_url{
 }
 
 h3.caption{
-    text-family: arial;
     font-weight: bold
 }
 
 div.content {
-  padding: 16px;
+    padding: 16px;
+    font-family: arial;
+
 }
 
 div.description{
@@ -69,7 +70,6 @@ div.description{
 }
 
 p.text{
-    font-family: arial;
     line-height: 36px;
     
 }
